@@ -1,0 +1,3 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+15456895	Nordborg	UTR	1	179	.	+	.	Parent=15456895;Known;	
+15456895	Nordborg	CDS	180	560	.	+	0	Parent=15456895;Known;	

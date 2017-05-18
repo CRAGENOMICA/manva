@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+7278798	Nordborg	CDS	1	171	.	+	1	Parent=7278798;Known;	
+7278798	Nordborg	intron	172	263	.	+	.	Parent=7278798;Known;	
+7278798	Nordborg	CDS	264	368	.	+	1	Parent=7278798;Known;	
+7278798	Nordborg	intron	369	446	.	+	.	Parent=7278798;Known;	
+7278798	Nordborg	CDS	447	533	.	+	1	Parent=7278798;Known;	

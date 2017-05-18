@@ -1,0 +1,7 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+17954944	Nordborg	intergenic	1	214	.	+	.	.	
+17954944	Nordborg	CDS	215	215	.	+	0	Parent=17954944;Putative;	
+17954944	Nordborg	shiftframe	216	218	.	+	.	Parent=17954944;	
+17954944	Nordborg	CDS	219	429	.	+	2	Parent=17954944;Putative;	
+17954944	Nordborg	intron	430	521	.	+	.	Parent=17954944;Putative;	
+17954944	Nordborg	CDS	522	532	.	+	1	Parent=17954944;Putative;	

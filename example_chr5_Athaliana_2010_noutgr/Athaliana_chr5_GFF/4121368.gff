@@ -1,0 +1,3 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+4121368	Nordborg	UTR	1	63	.	-	.	Parent=4121368;Known;	
+4121368	Nordborg	intergenic	1	528	.	+	.	.	

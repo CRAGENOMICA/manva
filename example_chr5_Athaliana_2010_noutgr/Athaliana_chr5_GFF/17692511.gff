@@ -1,0 +1,5 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+17692511	Nordborg	CDS	1	100	.	+	1	Parent=17692511;Known;	
+17692511	Nordborg	intron	101	173	.	+	.	Parent=17692511;Known;	
+17692511	Nordborg	CDS	174	347	.	+	0	Parent=17692511;Known;	
+17692511	Nordborg	intergenic	348	638	.	+	.	.	

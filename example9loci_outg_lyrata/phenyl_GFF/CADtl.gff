@@ -1,0 +1,17 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+CADtl.NBRF	.	allinter	1	479	.	+	.	Parent=CAD;
+CADtl.NBRF	.	500up	1	479	.	+	.	Parent=CAD;
+CADtl.NBRF	.	UTR	480	581	.	+	.	Parent=CAD;
+CADtl.NBRF	.	CDS	582	673	.	+	0	Parent=CAD;
+CADtl.NBRF	.	intron	674	810	.	+	.	Parent=CAD;
+CADtl.NBRF	.	CDS	811	924	.	+	1	Parent=CAD;
+CADtl.NBRF	.	intron	925	1718	.	+	.	Parent=CAD;
+CADtl.NBRF	.	CDS	1719	1946	.	+	1	Parent=CAD;
+CADtl.NBRF	.	intron	1947	2041	.	+	.	Parent=CAD;
+CADtl.NBRF	.	CDS	2042	2481	.	+	1	Parent=CAD;
+CADtl.NBRF	.	intron	2482	2575	.	+	.	Parent=CAD;
+CADtl.NBRF	.	CDS	2576	2796	.	+	2	Parent=CAD;
+CADtl.NBRF	.	UTR	2797	2930	.	+	.	Parent=CAD;
+
+CADtl.NBRF	.	hapl1	500	1000	.	+	.	Parent=CAD;
+CADtl.NBRF	.	hapl2	2000	2500	.	+	.	Parent=CAD;

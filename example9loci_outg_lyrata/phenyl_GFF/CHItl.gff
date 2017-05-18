@@ -1,0 +1,20 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+CHItl.NBRF	.	inter	1	588	.	+	.	.
+CHItl.NBRF	.	allinter	1	643	.	+	.	.
+CHItl.NBRF	.	UTR	589	643	.	+	.	Parent=CHI;
+CHItl.NBRF	.	500up	88	588	.	+	.	Parent=CHI;
+
+CHItl.NBRF	.	CDS	644	776	.	+	0	Parent=CHI;
+CHItl.NBRF	.	intron	777	859	.	+	.	Parent=CHI;
+CHItl.NBRF	.	CDS	860	1018	.	+	.	Parent=CHI;
+CHItl.NBRF	.	intron	1019	1119	.	+	.	Parent=CHI;
+CHItl.NBRF	.	CDS	1120	1343	.	+	.	Parent=CHI;
+CHItl.NBRF	.	intron	1344	1593	.	+	.	Parent=CHI;
+CHItl.NBRF	.	CDS	1594	1815	.	+	.	Parent=CHI;
+CHItl.NBRF	.	UTR	1816	1952	.	+	.	Parent=CHI;
+
+CHItl.NBRF	.	inter	1953	1968	.	+	.	.
+CHItl.NBRF	.	allinter	1953	1968	.	+	.	.
+
+CHItl.NBRF	.	hapl1	700	1200	.	+	.	Parent=CHI;
+CHItl.NBRF	.	hapl2	1400	1900	.	+	.	Parent=CHI;

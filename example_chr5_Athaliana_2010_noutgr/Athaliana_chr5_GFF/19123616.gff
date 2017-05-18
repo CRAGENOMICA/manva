@@ -1,0 +1,5 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+19123616	Nordborg	UTR	1	223	.	+	.	Parent=19123616;Known;	
+19123616	Nordborg	CDS	224	329	.	+	0	Parent=19123616;Known;	
+19123616	Nordborg	intron	330	428	.	+	.	Parent=19123616;Known;	
+19123616	Nordborg	CDS	429	643	.	+	2	Parent=19123616;Known;	

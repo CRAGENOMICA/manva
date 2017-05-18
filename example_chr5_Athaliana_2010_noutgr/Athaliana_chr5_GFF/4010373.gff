@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+4010373	Nordborg	CDS	1	15	.	+	0	Parent=4010373;Putative;	
+4010373	Nordborg	intron	16	106	.	+	.	Parent=4010373;Putative;	
+4010373	Nordborg	CDS	107	316	.	+	0	Parent=4010373;Putative;	
+4010373	Nordborg	UTR	72	563	.	-	.	Parent=4010373;Known;	
+4010373	Nordborg	UTR	72	563	.	-	.	Parent=4010373;Known;	

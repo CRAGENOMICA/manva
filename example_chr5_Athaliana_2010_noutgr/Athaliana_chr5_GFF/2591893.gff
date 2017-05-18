@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+2591893	Nordborg	CDS	1	70	.	+	2	Parent=2591893;Putative;	
+2591893	Nordborg	intron	71	290	.	+	.	Parent=2591893;Putative;	
+2591893	Nordborg	CDS	291	333	.	+	1	Parent=2591893;Putative;	
+2591893	Nordborg	shiftframe	334	334	.	+	.	Parent=2591893;	
+2591893	Nordborg	CDS	335	568	.	+	0	Parent=2591893;Putative;	

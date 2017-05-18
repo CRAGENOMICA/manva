@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+21718524	Nordborg	CDS	1	238	.	+	1	Parent=21718524;Known;	
+21718524	Nordborg	intron	239	319	.	+	.	Parent=21718524;Known;	
+21718524	Nordborg	CDS	320	420	.	+	0	Parent=21718524;Known;	
+21718524	Nordborg	intron	421	504	.	+	.	Parent=21718524;Known;	
+21718524	Nordborg	CDS	505	578	.	+	1	Parent=21718524;Known;	

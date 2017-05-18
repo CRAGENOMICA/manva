@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+22414510	Nordborg	CDS	1	91	.	-	0	Parent=22414510;Known;	
+22414510	Nordborg	UTR	92	105	.	-	.	Parent=22414510;Known;	
+22414510	Nordborg	intergenic	1	362	.	+	.	.	
+22414510	Nordborg	UTR	363	423	.	+	.	Parent=22414510;Known;	
+22414510	Nordborg	CDS	424	633	.	+	0	Parent=22414510;Known;	

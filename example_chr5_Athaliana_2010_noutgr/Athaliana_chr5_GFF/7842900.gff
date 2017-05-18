@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+7842900	Nordborg	intergenic	1	74	.	+	.	.	
+7842900	Nordborg	intron	75	120	.	+	.	Parent=7842900;Known;	
+7842900	Nordborg	CDS	121	155	.	+	0	Parent=7842900;Known;	
+7842900	Nordborg	shiftframe	156	158	.	+	.	Parent=7842900;	
+7842900	Nordborg	CDS	159	651	.	+	1	Parent=7842900;Known;	

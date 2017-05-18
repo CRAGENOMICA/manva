@@ -1,0 +1,3 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+13355705	Nordborg	pseudogene	1	531	.	-	.	.	
+13355705	Nordborg	intergenic	1	596	.	+	.	.	

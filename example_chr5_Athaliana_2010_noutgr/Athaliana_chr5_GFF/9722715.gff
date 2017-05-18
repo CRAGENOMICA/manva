@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+9722715	Nordborg	intron	1	104	.	+	.	Parent=9722715;Known;	
+9722715	Nordborg	UTR	105	110	.	+	.	Parent=9722715;Known;	
+9722715	Nordborg	CDS	111	331	.	+	0	Parent=9722715;Known;	
+9722715	Nordborg	intron	332	561	.	+	.	Parent=9722715;Known;	
+9722715	Nordborg	CDS	562	562	.	+	1	Parent=9722715;Known;	

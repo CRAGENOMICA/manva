@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+19315950	Nordborg	CDS	1	47	.	-	2	Parent=19315950;Known;	
+19315950	Nordborg	intron	48	321	.	-	.	Parent=19315950;Known;	
+19315950	Nordborg	CDS	322	376	.	-	0	Parent=19315950;Known;	
+19315950	Nordborg	UTR	377	429	.	-	.	Parent=19315950;Known;	
+19315950	Nordborg	intergenic	1	548	.	+	.	.	

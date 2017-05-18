@@ -1,0 +1,7 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+105340	Nordborg	UTR	1	26	.	+	.	Parent=105340;Known;	
+105340	Nordborg	CDS	27	242	.	+	0	Parent=105340;Known;	
+105340	Nordborg	intron	243	356	.	+	.	Parent=105340;Known;	
+105340	Nordborg	CDS	357	374	.	+	0	Parent=105340;Known;	
+105340	Nordborg	shiftframe	375	380	.	+	.	Parent=105340;	
+105340	Nordborg	CDS	381	522	.	+	0	Parent=105340;Known;	

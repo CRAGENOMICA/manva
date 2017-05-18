@@ -1,0 +1,6 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+15659669	Nordborg	CDS	1	55	.	+	2	Parent=15659669;Known;	
+15659669	Nordborg	shiftframe	56	61	.	+	.	Parent=15659669;	
+15659669	Nordborg	CDS	62	71	.	+	1	Parent=15659669;Known;	
+15659669	Nordborg	shiftframe	72	74	.	+	.	Parent=15659669;	
+15659669	Nordborg	CDS	75	538	.	+	0	Parent=15659669;Known;	

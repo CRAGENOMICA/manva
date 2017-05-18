@@ -1,0 +1,20 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+4CL2tl.NBRF	.	CDS	1	1	.	+	1	Parent=MPR;
+4CL2tl.NBRF	.	UTR	2	266	.	+	.	Parent=MPR;
+4CL2tl.NBRF	.	allinter	267	321	.	+	.	.
+4CL2tl.NBRF	.	500up	267	321	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	UTR	322	392	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	CDS	393	1430	.	+	0	Parent=4CL2;
+4CL2tl.NBRF	.	intron	1431	2400	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	CDS	2401	2813	.	+	0	Parent=4CL2;
+4CL2tl.NBRF	.	intron	2814	2931	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	CDS	2932	3034	.	+	1	Parent=4CL2;
+4CL2tl.NBRF	.	intron	3035	3146	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	CDS	3147	3263	.	+	0	Parent=4CL2;
+4CL2tl.NBRF	.	UTR	3264	3500	.	+	.	Parent=4CL2;
+4CL2tl.NBRF	.	inter	3501	3961	.	+	.	.
+4CL2tl.NBRF	.	allinter	3501	3961	.	+	.	.
+
+4CL2tl.NBRF	.	hapl1	400	900	.	+	.	.
+4CL2tl.NBRF	.	hapl2	3000	3500	.	+	.	.
+

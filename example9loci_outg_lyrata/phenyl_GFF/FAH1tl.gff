@@ -1,0 +1,10 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+FAH1tl.NBRF	.	CDS	1	511	.	+	0	Parent=FAH1;
+FAH1tl.NBRF	.	intron	512	639	.	+	.	Parent=FAH1;
+FAH1tl.NBRF	.	CDS	640	1070	.	+	.	Parent=FAH1;
+FAH1tl.NBRF	.	intron	1071	1423	.	+	.	Parent=FAH1;
+FAH1tl.NBRF	.	CDS	1424	2041	.	+	.	Parent=FAH1;
+FAH1tl.NBRF	.	UTR	2042	2205	.	+	.	Parent=FAH1;
+
+FAH1tl.NBRF	.	hapl1	250	750	.	+	.	Parent=FAH1;
+FAH1tl.NBRF	.	hapl2	1500	2000	.	+	.	Parent=FAH1;

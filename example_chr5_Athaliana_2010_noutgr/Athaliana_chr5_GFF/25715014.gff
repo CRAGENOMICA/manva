@@ -1,0 +1,7 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+25715014	Nordborg	UTR	1	33	.	+	.	Parent=25715014;Known;	
+25715014	Nordborg	CDS	1	33	.	-	0	Parent=25715014;Known;	
+25715014	Nordborg	intron	34	126	.	-	.	Parent=25715014;Known;	
+25715014	Nordborg	CDS	127	346	.	-	1	Parent=25715014;Known;	
+25715014	Nordborg	intron	347	434	.	-	.	Parent=25715014;Known;	
+25715014	Nordborg	CDS	435	536	.	-	1	Parent=25715014;Known;	

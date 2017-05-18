@@ -1,0 +1,4 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+3497886	Nordborg	CDS	1	190	.	+	2	Parent=3497886;Known;	
+3497886	Nordborg	intron	191	492	.	+	.	Parent=3497886;Known;	
+3497886	Nordborg	CDS	493	620	.	+	1	Parent=3497886;Known;	

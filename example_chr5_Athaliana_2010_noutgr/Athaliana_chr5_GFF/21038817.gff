@@ -1,0 +1,2 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+21038817	Nordborg	CDS	1	505	.	+	1	Parent=21038817;Known;	

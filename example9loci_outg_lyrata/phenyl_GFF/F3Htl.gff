@@ -1,0 +1,10 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+F3Htl.NBRF	.	CDS	1	318	.	+	0	Parent=F3H;
+F3Htl.NBRF	.	intron	319	408	.	+	.	Parent=F3H;
+F3Htl.NBRF	.	CDS	409	837	.	+	0	Parent=F3H;
+F3Htl.NBRF	.	intron	838	920	.	+	.	Parent=F3H;
+F3Htl.NBRF	.	CDS	921	1205	.	+	0	Parent=F3H;
+F3Htl.NBRF	.	UTR	1206	1242	.	+	.	Parent=F3H;
+
+F3Htl.NBRF	.	hapl1	1	500	.	+	.	Parent=F3H;
+F3Htl.NBRF	.	hapl2	501	1000	.	+	.	Parent=F3H;

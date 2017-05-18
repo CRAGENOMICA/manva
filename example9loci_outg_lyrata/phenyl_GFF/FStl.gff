@@ -1,0 +1,15 @@
+#seqname	source	feature	start	end	score	strand	frame	attributes
+FStl.NBRF	.	allinter	1	272	.	+	.	Parent=FS;
+FStl.NBRF	.	500up	1	272	.	+	.	Parent=FS;
+FStl.NBRF	.	UTR	273	327	.	+	.	Parent=FS;
+FStl.NBRF	.	CDS	328	794	.	+	0	Parent=FS;
+FStl.NBRF	.	intron	795	865	.	+	.	Parent=FS;
+FStl.NBRF	.	CDS	866	1193	.	+	1	Parent=FS;
+FStl.NBRF	.	intron	1194	1305	.	+	.	Parent=FS;
+FStl.NBRF	.	CDS	1306	1518	.	+	0	Parent=FS;
+FStl.NBRF	.	UTR	1519	1794	.	+	.	Parent=FS;
+FStl.NBRF	.	inter	1795	1852	.	+	.	Parent=FS;
+FStl.NBRF	.	allinter	1795	1852	.	+	.	Parent=FS;
+
+FStl.NBRF	.	hapl1	300	800	.	+	.	Parent=FS;
+FStl.NBRF	.	hapl2	1300	1800	.	+	.	Parent=FS;
